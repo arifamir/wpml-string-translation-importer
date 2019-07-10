@@ -1,4 +1,4 @@
-# WP Large CSVs Importer #
+# WPML String Translation Importer #
 Contributors: marifamir
 Tags: large csv importer
 Requires at least: 4.3
